@@ -21,6 +21,10 @@ def bonus
   }
 
   #code your solution here:
+  epic_tragedy[:montague][:hero][:status] = "alive"
+  puts epic_tragedy
+  
+  
 
   
 
